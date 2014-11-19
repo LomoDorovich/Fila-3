@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Zombie.cs" />
      <Compile Include="Assets\Scripts\balaScript.cs" />
      <Compile Include="Assets\Scripts\cameraFollow1.cs" />
      <Compile Include="Assets\Scripts\disparo.cs" />
