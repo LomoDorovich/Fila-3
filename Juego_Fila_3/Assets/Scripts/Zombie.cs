@@ -1,4 +1,4 @@
-﻿﻿using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class Zombie : MonoBehaviour {
@@ -26,14 +26,14 @@ public class Zombie : MonoBehaviour {
 		
 		busca_player();
 		
-		rigidbody2D.velocity = new Vector2(this.transform.localScale.x * speed, rigidbody2D.velocity.y);
+		rigidbody2D.velocity = new Vector2(this.transform.localScale.x * -speed, rigidbody2D.velocity.y);
 		
 	}
 	
 	
 	
 	void mediavuelta(){
-		this.transform.localScale = new Vector3(this.transform.localScale.x * -1, 1, 1);
+		this.transform.localScale = new Vector3(this.transform.localScale.x * -1, 3, 3);
 	}
 	
 	void gira_si_no_avanza(){
