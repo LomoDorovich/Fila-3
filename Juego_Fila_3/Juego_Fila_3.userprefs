@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Zombie.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Zombie2D\Assets\Scripts\bala.cs">
     <Files>
-      <File FileName="Assets\Scripts\Zombie.cs" Line="36" Column="75" />
-      <File FileName="Assets\Scripts\balaScript.cs" Line="1" Column="1" />
+      <File FileName="..\..\Zombie2D\Assets\Scripts\bala.cs" Line="30" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
